@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Woofing those bugs away",
+      "likes": 4,
+      "image": "./assets/coder-dog.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "imageId": 1,
+      "content": "What a cute dog!"
+    },
+    {
+      "imageId": 1,
+      "content": "",
+      "id": 5
+    },
+    {
+      "imageId": 1,
+      "content": "I love sassagna",
+      "id": 6
+    },
+    {
+      "imageId": 1,
+      "content": "Do you love me like I love you",
+      "id": 7
+    },
+    {
+      "imageId": 1,
+      "content": "What an awesome project",
+      "id": 8
+    },
+    {
+      "imageId": 1,
+      "content": "And I will always love you",
+      "id": 9
+    },
+    {
+      "imageId": 1,
+      "content": "And I will always love you",
+      "id": 10
+    },
+    {
+      "imageId": 1,
+      "content": "This is the part of me that you'll never ever gonna take away from me",
+      "id": 11
+    }
+  ]
+}
